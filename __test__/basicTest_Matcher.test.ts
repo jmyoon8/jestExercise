@@ -78,7 +78,7 @@ const isError = () => {
   });
 };
 isError();
-//결과
+//결과 Fail이 되어야 함
 /*
  FAIL  __test__/jest.test.ts
   ✕ 아이디가 음수이면 에러가 발생해야함 (1 ms)
