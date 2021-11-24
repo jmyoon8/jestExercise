@@ -1,0 +1,25 @@
+{
+  "name": "jestexercise",
+  "version": "1.0.0",
+  "description": "제스트 공부",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmyoon8/jestExercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmyoon8/jestExercise/issues"
+  },
+  "homepage": "https://github.com/jmyoon8/jestExercise#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.5.2"
+  }
+}
